@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32457280879",
+    "project_id": "translate-app-cbbed",
+    "storage_bucket": "translate-app-cbbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32457280879:android:c979df606cfb9d6e5e6c9a",
+        "android_client_info": {
+          "package_name": "com.example.ltapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32457280879-4rk3tdobovusj8lbngdn1vre1vg0gqvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7tJq1PnCW2wjyttGtp-VPWjt24qGdJjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32457280879-4rk3tdobovusj8lbngdn1vre1vg0gqvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
